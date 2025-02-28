@@ -1,0 +1,12 @@
+{
+    "client_ip_1": {
+        "key": "52bwvejrscl5",
+        "expiration_date": "2025-03-01T00:00:00",
+        "active": true
+    },
+    "client_ip_2": {
+        "key": "def789uvw012",
+        "expiration_date": "2025-04-01T00:00:00",
+        "active": true
+    }
+}
